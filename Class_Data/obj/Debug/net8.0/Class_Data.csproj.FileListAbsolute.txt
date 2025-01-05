@@ -1,0 +1,17 @@
+C:\Users\Naief\source\repos\Projeck_EF_Core\Class_Data\bin\Debug\net8.0\Class_Data.deps.json
+C:\Users\Naief\source\repos\Projeck_EF_Core\Class_Data\bin\Debug\net8.0\Class_Data.runtimeconfig.json
+C:\Users\Naief\source\repos\Projeck_EF_Core\Class_Data\bin\Debug\net8.0\Class_Data.dll
+C:\Users\Naief\source\repos\Projeck_EF_Core\Class_Data\bin\Debug\net8.0\Class_Data.pdb
+C:\Users\Naief\source\repos\Projeck_EF_Core\Class_Data\bin\Debug\net8.0\Class_Domain.dll
+C:\Users\Naief\source\repos\Projeck_EF_Core\Class_Data\bin\Debug\net8.0\Class_Domain.pdb
+C:\Users\Naief\source\repos\Projeck_EF_Core\Class_Data\obj\Debug\net8.0\Class_Data.csproj.AssemblyReference.cache
+C:\Users\Naief\source\repos\Projeck_EF_Core\Class_Data\obj\Debug\net8.0\Class_Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naief\source\repos\Projeck_EF_Core\Class_Data\obj\Debug\net8.0\Class_Data.AssemblyInfoInputs.cache
+C:\Users\Naief\source\repos\Projeck_EF_Core\Class_Data\obj\Debug\net8.0\Class_Data.AssemblyInfo.cs
+C:\Users\Naief\source\repos\Projeck_EF_Core\Class_Data\obj\Debug\net8.0\Class_Data.csproj.CoreCompileInputs.cache
+C:\Users\Naief\source\repos\Projeck_EF_Core\Class_Data\obj\Debug\net8.0\Class_Data.csproj.Up2Date
+C:\Users\Naief\source\repos\Projeck_EF_Core\Class_Data\obj\Debug\net8.0\Class_Data.dll
+C:\Users\Naief\source\repos\Projeck_EF_Core\Class_Data\obj\Debug\net8.0\refint\Class_Data.dll
+C:\Users\Naief\source\repos\Projeck_EF_Core\Class_Data\obj\Debug\net8.0\Class_Data.pdb
+C:\Users\Naief\source\repos\Projeck_EF_Core\Class_Data\obj\Debug\net8.0\Class_Data.genruntimeconfig.cache
+C:\Users\Naief\source\repos\Projeck_EF_Core\Class_Data\obj\Debug\net8.0\ref\Class_Data.dll

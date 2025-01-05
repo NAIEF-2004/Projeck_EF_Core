@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Naief\\source\\repos\\Projeck_EF_Core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48142764-FA67-4111-8DA3-D9B5858D40F0}|Projeck_EF_Core\\Projeck_EF_Core.csproj|c:\\users\\naief\\source\\repos\\projeck_ef_core\\projeck_ef_core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48142764-FA67-4111-8DA3-D9B5858D40F0}|Projeck_EF_Core\\Projeck_EF_Core.csproj|solutionrelative:projeck_ef_core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D650C2DE-AB04-4AC2-9DB3-44792E3012C3}|Class_Data\\Class_Data.csproj|c:\\users\\naief\\source\\repos\\projeck_ef_core\\class_data\\pharmacydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D650C2DE-AB04-4AC2-9DB3-44792E3012C3}|Class_Data\\Class_Data.csproj|solutionrelative:class_data\\pharmacydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17EF9CC-FAB0-4B52-B41F-304855384393}|Class_Domain\\Class_Domain.csproj|c:\\users\\naief\\source\\repos\\projeck_ef_core\\class_domain\\prescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17EF9CC-FAB0-4B52-B41F-304855384393}|Class_Domain\\Class_Domain.csproj|solutionrelative:class_domain\\prescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17EF9CC-FAB0-4B52-B41F-304855384393}|Class_Domain\\Class_Domain.csproj|c:\\users\\naief\\source\\repos\\projeck_ef_core\\class_domain\\pharmacist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17EF9CC-FAB0-4B52-B41F-304855384393}|Class_Domain\\Class_Domain.csproj|solutionrelative:class_domain\\pharmacist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17EF9CC-FAB0-4B52-B41F-304855384393}|Class_Domain\\Class_Domain.csproj|c:\\users\\naief\\source\\repos\\projeck_ef_core\\class_domain\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17EF9CC-FAB0-4B52-B41F-304855384393}|Class_Domain\\Class_Domain.csproj|solutionrelative:class_domain\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17EF9CC-FAB0-4B52-B41F-304855384393}|Class_Domain\\Class_Domain.csproj|c:\\users\\naief\\source\\repos\\projeck_ef_core\\class_domain\\contactinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17EF9CC-FAB0-4B52-B41F-304855384393}|Class_Domain\\Class_Domain.csproj|solutionrelative:class_domain\\contactinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Naief\\source\\repos\\Projeck_EF_Core\\Class_Data\\obj\\Debug\\net8.0\\zlcxran4.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Class_Data\\obj\\Debug\\net8.0\\zlcxran4.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/PharmacyDB_EF/True/SqlTable/dbo.ContactInfos.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/PharmacyDB_EF/True/SqlTable/dbo.__EFMigrationsHistory.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/PharmacyDB_EF/True/SqlTable/dbo.MedicinePrescription.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/PharmacyDB_EF/True/SqlTable/dbo.Medicines.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/PharmacyDB_EF/True/SqlTable/dbo.Prescriptions.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/PharmacyDB_EF/True/SqlTable/dbo.Pharmacists.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D650C2DE-AB04-4AC2-9DB3-44792E3012C3}|Class_Data\\Class_Data.csproj|c:\\users\\naief\\source\\repos\\projeck_ef_core\\class_data\\migrations\\20250102192504_initial_start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D650C2DE-AB04-4AC2-9DB3-44792E3012C3}|Class_Data\\Class_Data.csproj|solutionrelative:class_data\\migrations\\20250102192504_initial_start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "zlcxran4.sql",
+              "DocumentMoniker": "C:\\Users\\Naief\\source\\repos\\Projeck_EF_Core\\Class_Data\\obj\\Debug\\net8.0\\zlcxran4.sql",
+              "RelativeDocumentMoniker": "Class_Data\\obj\\Debug\\net8.0\\zlcxran4.sql",
+              "ToolTip": "C:\\Users\\Naief\\source\\repos\\Projeck_EF_Core\\Class_Data\\obj\\Debug\\net8.0\\zlcxran4.sql",
+              "RelativeToolTip": "Class_Data\\obj\\Debug\\net8.0\\zlcxran4.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-02T20:45:17.956Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dbo.ContactInfos.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/PharmacyDB_EF/True/SqlTable/dbo.ContactInfos.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/PharmacyDB_EF/True/SqlTable/dbo.ContactInfos.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-02T20:35:28.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dbo.__EFMigrationsHistory.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/PharmacyDB_EF/True/SqlTable/dbo.__EFMigrationsHistory.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/PharmacyDB_EF/True/SqlTable/dbo.__EFMigrationsHistory.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-02T20:35:10.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dbo.MedicinePrescription.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/PharmacyDB_EF/True/SqlTable/dbo.MedicinePrescription.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/PharmacyDB_EF/True/SqlTable/dbo.MedicinePrescription.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-02T20:34:39.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dbo.Medicines.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/PharmacyDB_EF/True/SqlTable/dbo.Medicines.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/PharmacyDB_EF/True/SqlTable/dbo.Medicines.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-02T20:07:49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "dbo.Prescriptions.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/PharmacyDB_EF/True/SqlTable/dbo.Prescriptions.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/PharmacyDB_EF/True/SqlTable/dbo.Prescriptions.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-02T20:06:45.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "dbo.Pharmacists.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/PharmacyDB_EF/True/SqlTable/dbo.Pharmacists.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/PharmacyDB_EF/True/SqlTable/dbo.Pharmacists.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-02T19:27:41.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250102192504_Initial_start.cs",
+              "DocumentMoniker": "C:\\Users\\Naief\\source\\repos\\Projeck_EF_Core\\Class_Data\\Migrations\\20250102192504_Initial_start.cs",
+              "RelativeDocumentMoniker": "Class_Data\\Migrations\\20250102192504_Initial_start.cs",
+              "ToolTip": "C:\\Users\\Naief\\source\\repos\\Projeck_EF_Core\\Class_Data\\Migrations\\20250102192504_Initial_start.cs",
+              "RelativeToolTip": "Class_Data\\Migrations\\20250102192504_Initial_start.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T19:25:04.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PharmacyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Naief\\source\\repos\\Projeck_EF_Core\\Class_Data\\PharmacyDbContext.cs",
+              "RelativeDocumentMoniker": "Class_Data\\PharmacyDbContext.cs",
+              "ToolTip": "C:\\Users\\Naief\\source\\repos\\Projeck_EF_Core\\Class_Data\\PharmacyDbContext.cs",
+              "RelativeToolTip": "Class_Data\\PharmacyDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T18:37:49.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Medicine.cs",
+              "DocumentMoniker": "C:\\Users\\Naief\\source\\repos\\Projeck_EF_Core\\Class_Domain\\Medicine.cs",
+              "RelativeDocumentMoniker": "Class_Domain\\Medicine.cs",
+              "ToolTip": "C:\\Users\\Naief\\source\\repos\\Projeck_EF_Core\\Class_Domain\\Medicine.cs",
+              "RelativeToolTip": "Class_Domain\\Medicine.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T18:36:12.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Prescription.cs",
+              "DocumentMoniker": "C:\\Users\\Naief\\source\\repos\\Projeck_EF_Core\\Class_Domain\\Prescription.cs",
+              "RelativeDocumentMoniker": "Class_Domain\\Prescription.cs",
+              "ToolTip": "C:\\Users\\Naief\\source\\repos\\Projeck_EF_Core\\Class_Domain\\Prescription.cs",
+              "RelativeToolTip": "Class_Domain\\Prescription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T18:35:41.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pharmacist.cs",
+              "DocumentMoniker": "C:\\Users\\Naief\\source\\repos\\Projeck_EF_Core\\Class_Domain\\Pharmacist.cs",
+              "RelativeDocumentMoniker": "Class_Domain\\Pharmacist.cs",
+              "ToolTip": "C:\\Users\\Naief\\source\\repos\\Projeck_EF_Core\\Class_Domain\\Pharmacist.cs",
+              "RelativeToolTip": "Class_Domain\\Pharmacist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T18:35:10.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContactInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Naief\\source\\repos\\Projeck_EF_Core\\Class_Domain\\ContactInfo.cs",
+              "RelativeDocumentMoniker": "Class_Domain\\ContactInfo.cs",
+              "ToolTip": "C:\\Users\\Naief\\source\\repos\\Projeck_EF_Core\\Class_Domain\\ContactInfo.cs",
+              "RelativeToolTip": "Class_Domain\\ContactInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T18:33:47.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Naief\\source\\repos\\Projeck_EF_Core\\Projeck_EF_Core\\Program.cs",
+              "RelativeDocumentMoniker": "Projeck_EF_Core\\Program.cs",
+              "ToolTip": "C:\\Users\\Naief\\source\\repos\\Projeck_EF_Core\\Projeck_EF_Core\\Program.cs",
+              "RelativeToolTip": "Projeck_EF_Core\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T18:32:08.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

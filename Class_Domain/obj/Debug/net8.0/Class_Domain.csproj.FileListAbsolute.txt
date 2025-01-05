@@ -1,0 +1,11 @@
+C:\Users\Naief\source\repos\Projeck_EF_Core\Class_Domain\bin\Debug\net8.0\Class_Domain.deps.json
+C:\Users\Naief\source\repos\Projeck_EF_Core\Class_Domain\bin\Debug\net8.0\Class_Domain.dll
+C:\Users\Naief\source\repos\Projeck_EF_Core\Class_Domain\bin\Debug\net8.0\Class_Domain.pdb
+C:\Users\Naief\source\repos\Projeck_EF_Core\Class_Domain\obj\Debug\net8.0\Class_Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naief\source\repos\Projeck_EF_Core\Class_Domain\obj\Debug\net8.0\Class_Domain.AssemblyInfoInputs.cache
+C:\Users\Naief\source\repos\Projeck_EF_Core\Class_Domain\obj\Debug\net8.0\Class_Domain.AssemblyInfo.cs
+C:\Users\Naief\source\repos\Projeck_EF_Core\Class_Domain\obj\Debug\net8.0\Class_Domain.csproj.CoreCompileInputs.cache
+C:\Users\Naief\source\repos\Projeck_EF_Core\Class_Domain\obj\Debug\net8.0\Class_Domain.dll
+C:\Users\Naief\source\repos\Projeck_EF_Core\Class_Domain\obj\Debug\net8.0\refint\Class_Domain.dll
+C:\Users\Naief\source\repos\Projeck_EF_Core\Class_Domain\obj\Debug\net8.0\Class_Domain.pdb
+C:\Users\Naief\source\repos\Projeck_EF_Core\Class_Domain\obj\Debug\net8.0\ref\Class_Domain.dll
